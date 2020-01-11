@@ -1,4 +1,4 @@
-# INFO-5100 Applioction Engineering and Development
+# INFO-5100 Application Engineering and Development
 
 ## Following is the course Structure for this course
 -14 meetings <br>
